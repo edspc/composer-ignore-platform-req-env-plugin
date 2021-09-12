@@ -2,6 +2,7 @@
     "name": "edspc/composer-ignore-platform-req-env-plugin",
     "description": "Add env variables to ignore platform-req.",
     "type": "composer-plugin",
+    "license": "MIT",
     "homepage": "https://github.com/edspc/composer-ignore-platform-req-env-plugin",
     "require": {
         "composer-plugin-api": "^2.0"
